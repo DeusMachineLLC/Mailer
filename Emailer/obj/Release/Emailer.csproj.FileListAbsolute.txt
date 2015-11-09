@@ -1,0 +1,16 @@
+E:\Deus\Emailer\Emailer\bin\Release\Emailer.exe
+E:\Deus\Emailer\Emailer\bin\Release\Emailer.exe.config
+E:\Deus\Emailer\Emailer\obj\Release\Emailer.DeusEmailer.resources
+E:\Deus\Emailer\Emailer\obj\Release\Emailer.Properties.Resources.resources
+E:\Deus\Emailer\Emailer\obj\Release\Emailer.csproj.GenerateResource.Cache
+E:\Deus\Emailer\Emailer\obj\Release\Emailer.exe
+E:\Deus\Emailer\Emailer\obj\Release\Emailer.pdb
+E:\Deus\Emailer\Emailer\bin\Release\Emailer.pdb
+C:\Users\andrew\Desktop\Emailer\Emailer\bin\Release\Emailer.exe.config
+C:\Users\andrew\Desktop\Emailer\Emailer\bin\Release\Emailer.exe
+C:\Users\andrew\Desktop\Emailer\Emailer\bin\Release\Emailer.pdb
+C:\Users\andrew\Desktop\Emailer\Emailer\obj\Release\Emailer.DeusEmailer.resources
+C:\Users\andrew\Desktop\Emailer\Emailer\obj\Release\Emailer.Properties.Resources.resources
+C:\Users\andrew\Desktop\Emailer\Emailer\obj\Release\Emailer.csproj.GenerateResource.Cache
+C:\Users\andrew\Desktop\Emailer\Emailer\obj\Release\Emailer.exe
+C:\Users\andrew\Desktop\Emailer\Emailer\obj\Release\Emailer.pdb
